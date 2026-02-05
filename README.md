@@ -34,7 +34,7 @@ A ideia foi organizar o fluxo pra não virar bagunça e seguir o que foi pedido 
 
 ---
 
-## 3. Como rodar essa belezinha
+## 3. Como rodar 
 
 1. Joga a pasta `/DesafioCNI/` com os notebooks (**Bronze**, **Silver**, **Gold** e **Main**) dentro do seu workspace no Databricks.
 2. Liga o cluster e abre o notebook **Main**.
